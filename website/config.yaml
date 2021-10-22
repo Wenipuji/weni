@@ -86,18 +86,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
+    - degree: "SD"
+      branch: 
+      university: "SDN PENANGGAL 05"
+      startedyear: "2010
+      graduation: "2016"
+    - degree: "SMP CANDIPURO 02"
+      branch:"2016
+    
+      
+  
+    university: "SMK NEGERI PASIRIAN
+      startedyear: "2019"
+      graduation: "2022"
+    - degree: "SMK"
+      branch: 
       university: "Example university"
       startedyear: "year"
       graduation: "year"
